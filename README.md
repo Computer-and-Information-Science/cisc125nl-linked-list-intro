@@ -1,2 +1,3 @@
-# cpp-debug
-Build/Run/Debug C++ File with Codespaces
+# A Linked List Template Class
+
+Starter code for an exercise introducing linked lists.
